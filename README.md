@@ -1,2 +1,2 @@
 # python-project
-tic tac toe
+QR_Code scanner using modules : pillow & qr_code.
